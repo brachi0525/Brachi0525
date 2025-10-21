@@ -22,7 +22,7 @@ I love learning new technologies, growing professionally, and writing clean, eff
 ---
 
 ## 🚀 Projects
-
+<sub>
 ### Studio Management | Angular
 Developed a system to manage classes, instructors, and participant registration.  
 Includes interactive UI, dynamic forms, and client-side routing.
@@ -40,6 +40,9 @@ Worked with RESTful API and MongoDB on the backend.
 ### Version Control & Code Analysis System | Python
 Developed a version control system similar to Git, analyzing Python files using AST,  
 generating alerts, and producing graphs with Matplotlib.
+</sub>
+ And more...
+
 
 ---
 
