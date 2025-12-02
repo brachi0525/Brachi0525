@@ -1,55 +1,58 @@
 # Hello 👋, I'm Bracha Schwartz!
 
-## 💻 Software Developer | Full Stack Developer
+## 💻 Full Stack Software Developer
 
-Welcome to my GitHub profile!  
-I am a motivated Full Stack Developer with hands-on experience in both frontend and backend development, system management, and implementing diverse technological solutions.  
-I love learning new technologies, growing professionally, and writing clean, efficient, and high-quality code — the kind that just *works* 😊  
-
+Motivated developer passionate about building scalable web systems and writing clean, efficient code. I enjoy tackling technological challenges and mastering new stacks.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend:** Java, C#, ASP.NET Core, Python, Node.js  
-**Frontend:** React, Redux, Angular, TypeScript, JavaScript, HTML, CSS  
-**Databases:** SQL Server, Supabase (PostgreSQL), MongoDB  
-**Version Control & Task Management:** Git, GitHub  
-**Operating Systems:** Windows, Linux  
-**Architecture & Technologies:** Hibernate, Spring, Design Patterns, RESTful APIs  
-**Familiar With:** GCP, Microservices, Containers, Docker, Kubernetes
+* **Backend:** C#, .NET Core, Python, Node.js, Java
+* **Frontend:** React, Next.js, Angular, TypeScript, Redux, Tailwind CSS
+* **Databases:** SQL Server, PostgreSQL (Supabase), MongoDB
+* **Tools & DevOps:** Git, Docker, Kubernetes, Linux
+* **Concepts:** OOP, Design Patterns, RESTful APIs, Microservices
 
 ---
 
-## 🚀 Projects
-### Studio Management | Angular
-Developed a system to manage classes, instructors, and participant registration.  
-Includes interactive UI, dynamic forms, and client-side routing.
+## 🚀 Featured Projects
 
-### Store Website | JavaScript, HTML, CSS
-Built a showcase website for a store, including product pages, a basic shopping cart, and responsive design.
+### 🔹 DiversiTech CRM & Website (Internship)
+*Full Stack Management System for a Non-Profit*
+* **Tech:** React, Redux Toolkit, Next.js, Node.js, Supabase (PostgreSQL), Tailwind CSS.
+* **Highlights:** Built a comprehensive system from scratch while **collaborating in an Agile team**. Features robust security mechanisms, seamless integration with external APIs, bilingual support (Hebrew/English), and fully responsive design.
 
-### Cash Register | C#
-Developed a desktop system for purchase management, total calculation, and receipt generation.
+### 🔹 Inventory Management API
+*Robust Backend Service*
+* **Tech:** ASP.NET Core Web API, SQL Server.
+* **Highlights:** Developed using Layered Architecture and Dependency Injection. Supports complex CRUD operations and scalable RESTful endpoints.
 
-### Task Management System | React & Node.js
-Developed a task management application with user authentication, task creation, and dynamic tagging.  
-Worked with RESTful API and MongoDB on the backend.
+### 🔹 Version Control & Code Analysis
+*Git-like System & Static Analysis*
+* **Tech:** Python, AST, Matplotlib.
+* **Highlights:** Custom version control logic (commit/branch). Performs static code analysis using Abstract Syntax Trees (AST) and generates visual data reports.
 
-### Version Control & Code Analysis System | Python
-Developed a version control system similar to Git, analyzing Python files using AST,  
-generating alerts, and producing graphs with Matplotlib.
+### 🔹 Task Manager
+*Productivity Web App*
+* **Tech:** React, Node.js, MongoDB.
+* **Highlights:** Task management system with user authentication, dynamic tagging, and RESTful API integration.
 
-And more...
+### 🔹 Cash Register (POS)
+*Desktop Application*
+* **Tech:** C#, .NET.
+* **Highlights:** Purchase management system for retail, including total calculation and receipt generation.
 
+### 🔹 Studio Management
+* **Tech:** Angular.
+* **Highlights:** Class and instructor management system with dynamic forms and client-side routing.
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email:** [brachi0525@gmail.com](mailto:brachi0525@gmail.com)  
+📧 **Email:** [brachi0525@gmail.com](mailto:brachi0525@gmail.com)
 
 ---
 
-Thanks for visiting my profile! ✨  
-I’m open to collaborations, new opportunities, and exciting challenges 💪
+Thanks for visiting! I’m open to collaborations and new opportunities 💪
